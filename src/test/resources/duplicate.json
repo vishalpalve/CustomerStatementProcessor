@@ -1,0 +1,18 @@
+[ 
+    {
+    "transactionReference" : 123456,
+    "accountNumber" : 123,
+    "startBalance" : 25.0,
+    "description" : "transaction 1",
+    "mutation" : 10.0,
+    "endBalance" : 35.0
+    },
+    {
+    "transactionReference" : 123456,
+    "accountNumber" : 123,
+    "startBalance" : 25.0,
+    "description" : "transaction 1",
+    "mutation" : 10.0,
+    "endBalance" : 35.0
+    }
+]
